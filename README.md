@@ -1,1 +1,1 @@
-Here I'll post all my task during Pythom learning.
+Here I'll post all my task during Python learning.
